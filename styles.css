@@ -62,7 +62,7 @@ body{
 .right-component{
     width: 40%;
     height: 100vh;
-    background-image: url("./assets/IMG_20231119_232729.jpg");
+    background-image: url("./assest/IMG_20231119_232729.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
